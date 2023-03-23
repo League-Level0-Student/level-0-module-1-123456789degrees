@@ -1,1 +1,14 @@
 size(600,600);
+textSize(17);
+fill(255,1,1,100);
+ellipse(200, 263, 200,200);
+fill(0,0,0,255);
+text("I am 10 years old.", 200, 263);
+fill(1,255,1, 100);
+ellipse(300, 140, 200,200);
+fill(0,0,0,255);
+text("I like to play tennis.", 300, 140);
+fill(1,1,255, 100);
+ellipse(350, 300, 200,200);
+fill(0,0,0,255);
+text("My favorite color is blue.", 350, 300);
